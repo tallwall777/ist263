@@ -1,0 +1,13 @@
+#welcome {
+    color: orange;
+    text-decoration: none;
+}
+
+.doublesize {
+    font-size: 2em;
+}
+
+p a {
+    color: green;
+    text-decoration: none;
+}
