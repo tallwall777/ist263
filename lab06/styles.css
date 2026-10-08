@@ -1,3 +1,5 @@
 Body {font-family:"Georgia",serif, "Times New Roman", Times, serif, "Tahoma", sans-serif;}
 h1, h2 {color:darkred;}
 .evenrow {background-color:lightgray;}
+h1 {font-size:2em;}
+h2 {font-size:1.5em;}
