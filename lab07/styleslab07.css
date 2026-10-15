@@ -17,3 +17,14 @@ a:hover, a:active {
 nav {
     background-color: #FFFFFF;
 }
+
+nav a:hover, nav a:active {
+    background-color: #FFD700;
+}
+
+nav a {
+    color: #ff0000d8;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
