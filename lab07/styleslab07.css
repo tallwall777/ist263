@@ -1,0 +1,19 @@
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ff0000d8;
+}
+
+a:link, a:visited {
+    color: #0000ffb9;
+}
+a:hover, a:active {
+    color: #ff0000d8;
+}
+
+nav {
+    background-color: #FFFFFF;
+}
