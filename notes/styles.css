@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+h1 {color:fuchsia;}
+p {
+    
+}
+=======
 h1 {color:crimson;}
 p {
     font-size: 2em;
@@ -21,3 +27,4 @@ p a {color:blueviolet;}
 /* id selector only styles one element*/
 
 .doublesize {font-size: 2em;}
+>>>>>>> b177484198a39e9bb03e314a43a92a26e41f4f7c
