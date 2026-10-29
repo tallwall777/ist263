@@ -37,6 +37,8 @@ nav {margin-bottom: 30px;}
             nav a {
                 display: block;
                 width: 100%;
+                padding: 10px 0;
+                text-decoration: underline;
             }
             nav span {
                 display: none;
