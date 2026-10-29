@@ -37,3 +37,13 @@ nav a:last-child {
 nav {margin-bottom: 30px;}
 
 .pic {max-width: 100%;}
+
+ @media only screen and (max-width: 800px) {
+            body {background-color: rgb(0, 255, 200);}
+            img {display:none;} /* inside media query takes display of element away */
+            
+        }
+nav a {
+    display:block;
+    width: 100%;
+}
