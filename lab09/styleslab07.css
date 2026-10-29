@@ -26,12 +26,8 @@ nav a {
     color: #ff0000d8;
     text-decoration: none;
     padding: 10px;
-    border-right: 1px solid #000000;
 }
 
-nav a:last-child {
-    border-right: none;
-}
 
 nav {margin-bottom: 30px;}
 
