@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ff0000d8;
+}
+
+a:link, a:visited {
+    color: #0000ffb9;
+}
+a:hover, a:active {
+    color: #ff0000d8;
+}
+
+nav {
+    background-color: #FFFFFF;
+}
+
+nav a:hover, nav a:active {
+    background-color: #FFD700;
+}
+
+nav a {
+    color: #ff0000d8;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    border-right: 1px solid #000000;
+}
+
+nav a:last-child {
+    border-right: none;
+}
+
+nav {margin-bottom: 30px;}
