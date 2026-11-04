@@ -48,3 +48,8 @@ nav {margin-bottom: 30px;}
 .evenrow {
     background-color: #f2f2f2;
 }
+
+header {
+    display: flex;
+    justify-content: center;
+}
