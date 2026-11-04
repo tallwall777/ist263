@@ -8,10 +8,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a:link, a:visited {
-    color: #0000ffb9;
+    color: #ff0000d8;
 }
 a:hover, a:active {
-    color: #ff0000d8;
+    color: white;
 }
 
 nav {
@@ -49,3 +49,6 @@ nav {margin-bottom: 30px;}
     background-color: #f2f2f2;
 }
 
+nav a {
+    background-color: lightgrey;
+}
