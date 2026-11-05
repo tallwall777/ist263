@@ -53,3 +53,7 @@ header {
 .evenrow {
     background-color: #ff0000d8;
 }
+
+table {
+    width: 100%;
+}
