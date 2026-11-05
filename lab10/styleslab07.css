@@ -1,0 +1,55 @@
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ff0000d8;
+}
+
+a:link, a:visited {
+    color: #ff0000d8;
+}
+a:hover, a:active {
+    color: #ffffff;
+}
+
+nav {
+    background-color: #FFFFFF;
+}
+
+nav a:hover, nav a:active {
+    background-color: #FFD700;
+}
+
+nav a {
+    color: #ff0000d8;
+    text-decoration: none;
+    padding: 1px;
+}
+
+
+nav {margin-bottom: 30px;}
+
+.pic {max-width: 100%;}
+
+ @media (max-width: 768px) {
+            nav a {
+                display: block;
+                width: 100%;
+                padding: 10px 0;
+                text-decoration: underline;
+            }
+            nav span {
+                display: none;
+            }
+        }
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.evenrow {
+    background-color: #ff0000d8;
+}
